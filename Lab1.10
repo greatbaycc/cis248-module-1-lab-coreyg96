@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LabProgram {
+public class Madlib {
    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         String name, place, item;
